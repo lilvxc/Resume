@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            margin-bottom: 30px;
+        }
+        .contact-info p {
+            margin-bottom: 5px;
+        }
+        .certification {
+            border-top: 1px solid #ccc;
+            padding-top: 20px;
+        }
+        .experience h3 {
+            margin-top: 0;
+        }
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Snehalata Nayak</h1>
+        <div class="contact-info">
+            <p><a href="mailto:snehalatanayak2001@email.com">snehalatanayak2001@email.com</a></p>
+    <p><a href="https://linkedin.com/in/snehalata-nayak" target="_blank">linkedin.com/in/Snehalatnayak</a></p>
+    <p><a href="https://github.com/lilvxc" target="_blank">github.com/lilvxc</a></p>
+        </div>
+    </header>
+    <div class="section">
+        <h2>Objective</h2>
+        <p>I am a recent graduate with a degree in computer science. 
+              I am passionate about software development and design, and I have practical knowledge gained through my final year project and an internship.
+             I am eager to contribute my skills and knowledge to an IT organization.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Education</h2>
+        <p>Bachelor of Science in Computer Science</p>
+        <p>Bharathiar University</p>
+        <p>Graduated May 2024</p>
+    </div>
+    
+    <div class="section certification">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Naan Mudhalvan</li> 
+  <li>Soft skill</li> 
+  <li>future skill prime</li> 
+  <li>entrepreneurship</li> 
+  <li>Internship</li> 
+<p> Completed a comprehensive 13 days training program under the tutelage of Handyman Technology.</p>
+  <li>Smartphones and troubleshooting</li> 
+        </ul>
+
+        <h2>Interest</h2>
+        <ul>
+            <li>Reading</li> 
+  <li>Chess</li> 
+  <li>Listening to music</li> 
+  <li>Research</li> 
+  <li>Gardening</li> 
+        </ul>
+
+    
+
+    </div>
+    
+    <div class="section">
+        <h2>Skills</h2>
+        <p><b>Languages:</b>c, c++, Python, Java</p>
+        <p><b>Graphic Design:</b> Canva, Picart,Lucidchart</p>
+        <p><b>Databases:</b> SQL</p>
+        <p><b>Tools:</b> Git, Visual Studio Code, Ms office</p>
+    </div>
+    
+    <div class="section">
+        <h2>Projects</h2>
+        <p><b>College Website:</b><br>Coordinated with team members to design and develop a dynamic college website,</p>
+        <p><b>Digital portfolio:</b> <br>Built a web application with Flask and SQLAlchemy to track expenses and income, providing visualizations of spending habits.</p>
+    </div>
+</div>
+
+ 
+</body>
+</html>
